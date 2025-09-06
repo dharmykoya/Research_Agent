@@ -1,0 +1,33 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
